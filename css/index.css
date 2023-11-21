@@ -212,3 +212,12 @@ button:active {
   transform: translateX(calc(-1.5 * var(--vw-min)));
   opacity: 0.8;
 }
+
+@media screen and (max-width: 768px) {
+  button {
+    width: calc(40 * var(--vw-min));
+    height: calc(12 * var(--vw-min));
+    font-size: 5vmin;
+    margin-left: calc(4 * var(--vw-min));
+  }
+}
