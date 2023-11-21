@@ -12,7 +12,7 @@
   position: absolute;
   overflow: hidden;
   font-family: 'Inter Tight', sans-serif;
-  color:rgba(0, 0, 0, 0.8)
+  color: rgba(0, 0, 0, 0.8);
 }
 
 button {
@@ -20,10 +20,11 @@ button {
   width: calc(30 * var(--vw-min));
   height: calc(7 * var(--vw-min));
   font-size: 3vmin;
+  color: rgba(0, 0, 0, 0.8);
   border: solid 4px rgba(0, 0, 0, 0.7);
   border-radius: calc(1 * var(--vw-min));
   margin-left: calc(7 * var(--vw-min));
-  box-shadow: 0px 7px 3px 0px rgba(0,0,0,0.1);
+  box-shadow: 0px 7px 3px 0px rgba(0, 0, 0, 0.1);
 }
 
 button:hover {
@@ -31,7 +32,7 @@ button:hover {
 }
 
 button:active {
-  box-shadow: 0px 4px 3px 0px rgba(0,0,0,0.1);
+  box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.1);
 }
 
 .background {
@@ -151,8 +152,8 @@ button:active {
 }
 
 .mask {
-  width: calc((100 * var(--vw-min)) );
-  height: calc((100 * var(--vw-min)) );
+  width: calc((100 * var(--vw-min)));
+  height: calc((100 * var(--vw-min)));
   border-radius: 50%;
   position: absolute;
   display: grid;
