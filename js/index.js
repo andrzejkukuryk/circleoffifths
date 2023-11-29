@@ -52,7 +52,6 @@ const changeClefKey = () => {
   };
 
   const imgClef = document.querySelector(".image");
-  console.log(step(under360));
   switch (step(under360)) {
     case 0:
       imgClef.setAttribute("src", "./img/C-major.png");
