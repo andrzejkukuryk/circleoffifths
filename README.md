@@ -13,9 +13,7 @@ https://andrzejkukuryk.github.io/circleoffifths/
 
 ### Features
 
-![Screenshot of Circle Of Fifths desktop view](https://github.com/andrzejkukuryk/portfolio/assets/101364440/6756fdc4-18f2-40b9-b978-e7c80f9e54e2)
-
-![Screenshot of Circle Of Fifths mobile view](https://github.com/andrzejkukuryk/portfolio/assets/101364440/09129172-b262-4162-a9a0-5bb126046f2d)
+![Screenshot of Circle Of Fifths main view](https://github.com/andrzejkukuryk/circleoffifths/assets/101364440/1e9eee5d-2183-4a06-8178-f03086c16a4e)
 
 
 ### Technologies / Frameworks used
